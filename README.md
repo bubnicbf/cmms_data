@@ -1,2 +1,5 @@
-# cmms_data
-Centers for Medicare &amp; Medicaid Services (CMMS) public use file 
+# Public Use File
+
+The Centers for Medicare & Medicaid Services (CMS) has developed a public use file that enables researchers and policymakers to evaluate geographic variation in the utilization and quality of health care services for the Medicare fee-for-service population.  The Geographic Variation Public Use File includes demographic, spending, utilization, and quality indicators at the state level (including the District of Columbia, Puerto Rico, and the Virgin Islands), hospital referral region (HRR) level, and county level.
+
+The Geographic Variation Public Use File has twelve separate files – two files with state and county-level data, four files with only state-level data, and six files with HRR-level data. The files are presented in two different formats.  The “Table” files present indicators for all states, counties, or HRRs, and can easily be exported from Excel to another data analysis program for additional analysis, while the corresponding “Report” files allow users to compare a specific state, county, or HRR to national Medicare benchmarks.  The state- and HRR-level data include age breakouts (under 65, and 65 or older).    Each file has a Documentation section which explains the individual indicators in more detail.   Information on the sample population and the methodology used to calculate these indicators can be found in the Methodological Overview paper and the Technical Supplement on Standardization paper.
